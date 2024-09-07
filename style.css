@@ -1,0 +1,142 @@
+  body{
+ margin: 0;
+ padding: 0;
+ 
+  }
+  
+
+header{
+  display: flex;
+ position:sticky;
+ background: #f6bb81;
+ justify-content: space-between;
+ flex-wrap: wrap;
+ align-items: center;
+ box-shadow:1px 1px  #6b6a67;
+ z-index: 40px;
+ top: 0;
+ font-family: Aleo, Helvetica, Arial, sans-serif;
+ font-style: normal;
+ font-size: 28px;
+ line-height: 58px;
+ }
+
+ .section1{
+  background-color: #f6bb81;
+  margin-top: ;
+ }
+
+.section1.SECT h1{
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: Aleo, Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-size: 28;
+  line-height: 58px;
+  color: #161922;
+  font-weight: 700;
+  padding-top: 0%;
+ }
+
+ .section1.SECT h4{
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: Poppins, Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 28px;
+ }
+
+ .section1.IMAGE{
+  margin-top: 6PX;
+  margin-left: 5px;
+ }
+  .logo{
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 250px;
+    
+  }
+
+    
+  .navbar ul{
+    display: flex;
+    margin-right: 30px;
+    
+  }
+
+  ul a {
+    text-decoration: none;
+    padding: 10PX;
+    color: black;
+    font-size: 20px;
+  }
+   
+
+.section1{
+  background-color: #f6bb81;
+  display: flex;
+  justify-content: space-between;
+}
+.section1 button{
+  font-size:30px;
+  border: ;
+  outline: ;
+  padding: 10px 10px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin-left: -60px;
+  margin-right: 90px;
+  width: 400PX;
+
+ 
+ }
+ button:hover{
+    letter-spacing: 5px ;  
+}
+
+.section2{
+  background-color: white;
+}
+
+.global{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.text{
+text-align: center;
+width: 1800px;
+margin-left: 100px;
+font-family: Aleo, Helvetica, Arial, sans-serif;
+font-style: normal;
+line-height: 58px;
+font-weight: 400px;
+}
+
+.section3{
+padding-top: 200px;
+margin-left: -200px;
+margin-right:400PX ;
+display: flex;
+}
+
+.section3 img{
+  margin-left: -450px;
+ 
+}
+
+.lavage h1{
+  margin-left: 50px;
+
+}
+.lavage{
+  margin-left: 50px;
+}
+
+.lavage{
+  border: solid;
+}
